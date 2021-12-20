@@ -1,10 +1,14 @@
-Hi, I'm Raishan Bernard - a developer that loves to create. I care about open source work, game design, digital communities, and self improvement.I have great Deep Logic Building & Problem Solving Skills.I never stay stagnant, i'm always improving
+### Hello, my name is Raishan 👋
 
-## 📌 Pinned
-- Website: https://raishanbernard.com
+- 🧑🏻‍💻 I’m currently a independant developer
+- 🌱 I'm writing a lot of front-end code in React
+- 🤔 I'm learning more about Web3 development 
+- 📌 https://raishanbernard.com
 
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=drgloo&&show_icons=true&theme=vue-dark"/>
   </a>
 </p>
+
+<!-- ![Raishan's github stats](https://github-readme-stats.vercel.app/api?username=DrGloo) -->
