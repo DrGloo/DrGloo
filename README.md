@@ -1,7 +1,7 @@
 ### Hello, my name is Raishan 👋
 
 - 🧑🏻‍💻 I’m currently a independant developer
-- 🌱 I'm writing a lot of front-end code in React
+- 🌱 I'm writing a lot of front-end code in React & back-end in Java
 - 🤔 I'm learning more about Web3 development 
 - 📌 https://raishanbernard.com
 
