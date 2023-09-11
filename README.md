@@ -2,7 +2,7 @@
 
 - 🧑🏻‍💻 I’m currently a independant developer
 - 🌱 I'm writing a lot of front-end code in React & back-end in Java
-- 🤔 I'm learning more about Web3 development 
+- 🤔 I'm learning more about web development 
 - 📌 https://raishanbernard.com
 
 <p align="center" >
