@@ -7,6 +7,7 @@ I'm a self-taught engineer with a passion for learning new things. I love going 
 I've created or contributed to hundreds of projects using a wide breadth of technologies and patterns that I've learned along the way. I've worked on games, websites (both front end and back end), bots & apis, and all sorts of miscellaneous adventures. I believe that the best results can be achieved when you take experience and wisdom from many different places into account when creating something new.
 - 📌 https://raishanbernard.com
 
+<!--
 <p align="center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=drgloo&&show_icons=true&theme=vue-dark"/>
